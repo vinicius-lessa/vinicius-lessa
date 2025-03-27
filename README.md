@@ -1,7 +1,7 @@
 # vinicius-lessa.github.io
 My public portfolio website
 
-https://vinicius-lessa.github.io/
+...
 
 # my-website
 
@@ -31,4 +31,17 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+<br>
+
+### PACKAGES
+
+#### Tailwind CSS 4
+[Visit Tailwind docs](https://tailwindcss.com/docs/installation/using-vite)
+
+Install Tailwind CSS with vite:
+
+``` shell
+npm install --save-dev tailwindcss @tailwindcss/vite
 ```

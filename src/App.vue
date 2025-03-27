@@ -10,7 +10,7 @@ const welcomeMsg = hour < 12 ? "Bom dia" : hour < 18 ? "Boa tarde" : "Boa noite"
 
 </script>
 
-<template>  
+<template>
     <Header v-bind:welcomeMsg="welcomeMsg" />
 
     <main>
