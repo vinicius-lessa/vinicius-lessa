@@ -1,21 +1,26 @@
 <script setup>
 
-// import TheWelcome from './components/TheWelcome.vue'
 import Header from './components/Header.vue'
-import Main from './components/Main.vue'
+import Hero from './components/Hero.vue';
+// import About from './components/About.vue'
 
-const nowInSaoPaulo = new Date().toLocaleString("en-US", { timeZone: "America/Sao_Paulo" });
-const hour = new Date(nowInSaoPaulo).getHours();
-const welcomeMsg = hour < 12 ? "Bom dia" : hour < 18 ? "Boa tarde" : "Boa noite";
+// const nowInSaoPaulo = new Date().toLocaleString("en-US", { timeZone: "America/Sao_Paulo" });
+// const hour = new Date(nowInSaoPaulo).getHours();
+// const welcomeMsg = hour < 12 ? "Bom dia" : hour < 18 ? "Boa tarde" : "Boa noite";
+
+const name = "Vinícius Lessa";
+const profession = "Desenvolvedor Web";
 
 </script>
 
 <template>
-    <Header v-bind:welcomeMsg="welcomeMsg" />
+    <header>
+        <Header />
+    </header>
 
-    <main>
-        <Main />
-    </main>
+    <section id="hero">
+        <Hero :name="name" :profession="profession" />
+    </section>
 </template>
 
 <style scoped>
