@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "description": "A full-stack e-commerce platform built with Vue.js and Node.js with features like user authentication, product search, and payment processing.",
+      "image": "https://picsum.photos/id/1/200/200",
+      "link": "https://github.com/username/ecommerce-project"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A responsive task management application with drag-and-drop functionality, task prioritization, and team collaboration features.",
+      "image": "https://picsum.photos/id/1/200/200",
+      "link": "https://github.com/username/task-manager"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "An interactive weather dashboard that displays current and forecasted weather conditions using data from multiple weather APIs.",
+      "image": "https://picsum.photos/id/1/200/200",
+      "link": "https://github.com/username/weather-dashboard"
+    },
+    {
+      "id": 4,
+      "title": "Personal Finance Tracker",
+      "description": "A finance management tool that helps users track expenses, create budgets, and visualize spending patterns with interactive charts.",
+      "image": "https://picsum.photos/id/1/200/200",
+      "link": "https://github.com/username/finance-tracker"
+    },
+    {
+      "id": 5,
+      "title": "Recipe Finder",
+      "description": "A web application that allows users to search for recipes based on ingredients they have, dietary restrictions, and meal types.",
+      "image": "https://picsum.photos/id/1/200/200",
+      "link": "https://github.com/username/recipe-finder"
+    }
+  ]
+}
