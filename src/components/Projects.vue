@@ -8,9 +8,8 @@ onMounted(() => {
   projectsContainer.addEventListener('wheel', (event) => {
     event.preventDefault(); // Prevent the default vertical scroll
             
-    const scrollAmount = event.deltaY; //  could be '/ 2' or '/ 3' for slower scroll
-    
-    // Apply smooth scrolling using behavior: 'smooth'
+    const scrollAmount = event.deltaY; //  could be divded by 2 for slower scroll
+        
     projectsContainer.scrollBy({
       left: scrollAmount,
       behavior: 'smooth'
