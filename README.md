@@ -1,47 +1,14 @@
-# vinicius-lessa.github.io
-My public portfolio website
+# Hello There! 👋
+My name is **Vinícius Lessa**, I'm a brazilian 🇧🇷 fullstack web developer.
 
-https://vinicius-lessa-github-io.vercel.app/
+I'm currently working at Quallit Tecnologia in São Paulo.
 
-# my-website
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Check my portifolio at https://vinicius-lessa.vercel.app/
 
 <br>
 
-### PACKAGES
-
-#### Tailwind CSS 4
-[Visit Tailwind docs](https://tailwindcss.com/docs/installation/using-vite)
-
-Install Tailwind CSS with vite:
-
-``` shell
-npm install --save-dev tailwindcss @tailwindcss/vite
-```
+# My Stack 🧱
+PHP 8 • JavaScript • HTML 5 • CSS 3 <br>
+React • React Native • Vue JS <br>
+SQL • MySQL • Microsoft SQL Server <br>
+C# • Unity 3D <br>
