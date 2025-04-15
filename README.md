@@ -12,3 +12,11 @@ PHP 8 • JavaScript • HTML 5 • CSS 3 <br>
 React • React Native • Vue JS <br>
 SQL • MySQL • Microsoft SQL Server <br>
 C# • Unity 3D <br>
+
+> .[!NOTE].
+> Aqui tem uma nota
+>
+> .[!TIP].
+> Aqui tem um conselho
+
+
