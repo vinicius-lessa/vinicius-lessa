@@ -7,7 +7,7 @@ import About    from './components/About.vue'
 import Projects from './components/Projects.vue'
 import Contact  from './components/Contact.vue'
 
-const { t } = useLanguage()
+const { text } = useLanguage()
 
 </script>
 
@@ -17,7 +17,7 @@ const { t } = useLanguage()
     </header>
 
     <section id="hero">
-        <Hero :name="'Vinícius Lessa'" :profession="t('hero.profession')" :greeting="t('hero.greeting', { profession: t('hero.profession') })" :callToAction="t('hero.callToAction')"/>
+        <Hero :name="'Vinícius Lessa'" :profession="text('hero.profession')" :greeting="text('hero.greeting', { profession: text('hero.profession') })" :callToAction="text('hero.callToAction')"/>
     </section>
 
     <section id="about">

@@ -17,7 +17,7 @@ export function useLanguage() {
     }
   };
 
-  const t = (key, params = {}) => {
+  const text = (key, params = {}) => {
     const keys = key.split(".");
     let value = locales[currentLocale.value];
 
@@ -46,6 +46,6 @@ export function useLanguage() {
   return {
     locale,
     setLocale,
-    t,
+    text,
   };
 }
