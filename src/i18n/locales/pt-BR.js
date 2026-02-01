@@ -6,9 +6,9 @@ export default {
     contact: 'Contato'
   },
   hero: {
-    profession: 'Desenvolvedor Web',
-    greeting: 'Olá, meu nome é Vinícius Lessa, sou {profession} e estou sempre em busca de novos desafios e aprendizados.',
-    callToAction: 'Se você está procurando um desenvolvedor web, entre em contato comigo!',
+    profession: 'Dev Full Stack',
+    greeting: 'Olá! sou Vinícius, trabalho como <i>Desenvolvedor Full Stack</i> há 4+ anos. 🚀',
+    callToAction: 'Se você está procurando um profissional, entre em contato comigo! Eu adoraria participar do seu projeto! 💻',
     contactButton: 'Entre em contato'
   },
   about: {

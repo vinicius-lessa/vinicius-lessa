@@ -6,9 +6,9 @@ export default {
         contact: 'Contact'
     },
     hero: {
-        profession: 'Web Developer',
-        greeting: 'Hello, my name is Vinícius Lessa, I am a {profession} and I am always looking for new challenges and learning opportunities.',
-        callToAction: 'If you\'re looking for a web developer, get in touch with me!',
+        profession: 'Full Stack Dev',
+        greeting: 'Hello! I\'m Vinícius, I\'ve been working as a <i>Full Stack Developer</i> for over 4+ years 🚀',
+        callToAction: 'If you\'re looking for a professional, get in touch with me! I would love to be part of your project! 💻',
         contactButton: 'Get in Touch'
     },
     about: {
